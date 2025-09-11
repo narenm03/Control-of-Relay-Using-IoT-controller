@@ -58,7 +58,7 @@ void loop() {
 
 ## OUTPUT:
 OFF:
-<img width="1920" height="1080" alt="NARENDHARAN M" src="https://github.com/user-attachments/assets/acf77b79-bc80-42ee-a02a-2dbbeaa79202" />
+<img width="1920" height="1080" alt="NARENDHARAN M (2)" src="https://github.com/user-attachments/assets/22047aa2-4f9f-409d-962e-79e09d0ea257" />
 
 ONN:
 <img width="1920" height="1080" alt="NARENDHARAN M (1)" src="https://github.com/user-attachments/assets/2a2a8ff1-6f93-4536-8f8f-32e44b24e3ec" />
