@@ -1,7 +1,7 @@
+# EX.NO 2: Control of Relay Using IoT controller
+
 #### NAME: NARENDHARAN M
 #### REG NO: 212223230134
-
-# EX.NO 2: Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -54,15 +54,16 @@ void loop() {
 } 
 ```
 ## CIRCUIT DIAGRAM:
+<img width="1207" height="848" alt="image" src="https://github.com/user-attachments/assets/79932e21-f1ff-43ac-a6d8-2c03c3a4c2f7" />
 
 
 ## OUTPUT:
 OFF:
-<img width="1920" height="1080" alt="NARENDHARAN M (2)" src="https://github.com/user-attachments/assets/22047aa2-4f9f-409d-962e-79e09d0ea257" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b6c9948a-f4b4-4088-8b4e-e32b25dea16a" />
+
 
 ONN:
-<img width="1920" height="1080" alt="NARENDHARAN M (1)" src="https://github.com/user-attachments/assets/2a2a8ff1-6f93-4536-8f8f-32e44b24e3ec" />
-
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/c89fc380-fbd5-41fb-9542-371bdf93930d" />
 
 
 
